@@ -2,7 +2,7 @@
 -  I’m interested in making games, and learning how to code
 -  I’m currently learning #C, JS, etc.
 -  I’m looking to collaborate on Unity projects, as of right now.
--  If you wish to reach me, just DM me on discord at u1tri#8900
+-  If you wish to reach me, just DM me on discord at u1tri
 -  i suck at coding by the way
 
 <!---
